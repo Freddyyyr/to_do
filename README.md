@@ -1,10 +1,14 @@
-# bloc
+# to_do
 
-A new Flutter project.
+ToDo app for daily things
+
+---
+
+## About
+
+This project is a Flutter application (bloc pattern) created as a starting point and extended into a ToDo app.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
