@@ -88,7 +88,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         return Padding(
                           padding: const EdgeInsets.all(8.0),
                           child: Dismissible(
-                            key: ValueKey(index),
+                            key: ValueKey(todo),
                             direction: DismissDirection.horizontal,
                             background: Container(
                               color: Colors.blue,
